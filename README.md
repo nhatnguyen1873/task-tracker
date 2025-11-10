@@ -267,6 +267,10 @@ Contributions are welcome! Feel free to:
 
 This project is open source and available for educational purposes.
 
+## Credits
+
+This project is inspired by the [Task Tracker](https://roadmap.sh/projects/task-tracker) project from [roadmap.sh](https://roadmap.sh) - a community-driven platform for learning paths and project ideas for developers.
+
 ## Roadmap
 
 Potential future enhancements:
